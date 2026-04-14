@@ -1,3 +1,12 @@
+Integrantes do grupo:
+
+Cecília Telles
+
+Cauan Henrique
+
+Davi Delmiro
+
+
 Proposta de valor
 
 O principal benefício do ReCiclo é facilitar a doação e reutilização de itens usados, conectando pessoas que desejam descartar objetos com outras que precisam deles. O aplicativo promove sustentabilidade, reduz o desperdício e incentiva o consumo consciente de forma simples e acessível.
