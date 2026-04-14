@@ -24,9 +24,15 @@ Apresenta informações do usuário, histórico de itens doados e selos/conquist
 
 Jornada Principal do Usuário
 1-O usuário abre o aplicativo e acessa a tela inicial (Home/Feed).
+
 2-Ele navega pelos itens disponíveis ou utiliza a tela de filtros para refinar a busca.
+
 3-Ao encontrar um item de interesse, acessa a tela de detalhes.
+
 4-Se tiver interesse, inicia uma conversa na tela de chat com o doador.
+
 5-No chat, combina informações como disponibilidade e local de retirada.
+
 6-Após o acordo, o usuário conclui a retirada/doação do item.
+
 7-A doação concluída pode gerar um selo no perfil do usuário, incentivando novas interações.
